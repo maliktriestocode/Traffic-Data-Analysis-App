@@ -1,0 +1,18 @@
+The file selected is: traffic_data21062024.csv
+Total vehicles: 1334
+Trucks: 138
+Electric vehicles: 442
+Two-wheeled vehicles: 503
+Buses leaving Elm Avenue heading North: 19
+Vehicles passing without turning: 494
+Percentage of trucks: 10%
+Average bicycles per hour: 9
+Over-speeding vehicles: 250
+Vehicles through Elm Avenue: 651
+Vehicles through Hanley Highway: 683
+Scooter percentage at Elm Avenue: 9%
+Peak traffic hours: The peak hours are from 18:00 to 19:00
+Most vehicles in an hour: 145
+Rain hours: 6
+
+*******************************************************
